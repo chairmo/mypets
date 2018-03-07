@@ -1,0 +1,66 @@
+<resources>
+
+    <!-- menu_main settings -->
+    <string name="app_name">MyPet</string>
+    <string name="action_insertAll">Insert Dummy Data</string>
+    <string name="action_deleteAll">Delete All Data</string>
+    <string name="action_sign_out">Sign Out</string>
+
+    <!-- editor_menu settings -->
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="action_home">Home</string>
+
+    <!--check input -->
+    <string name="empty_input">Fields cannot be Empty</string>
+
+    <!--intent title -->
+    <string name="add_pet">Add a Pet</string>
+    <string name="edit_pet">Edit Pet</string>
+    <string name="unsaved_data">Pet not saved</string>
+    <string name="discard_dialog">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="pet_deletion_successful">Deletion Successful</string>
+    <string name="pet_deletion_failed">Failed to Delete Pet</string>
+    <string name="do_you_want_to_delete">Delete Pet?</string>
+    <string name="cancel_deletion">Cancel</string>
+    <string name="delete">Delete</string>
+
+
+    <!--EditText settings -->
+
+    <!-- spinner array  settings -->
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+
+    <!-- save data -->
+    <string name="pet_saved">Pet saved</string>
+    <string name="error_saving">Error saving Pet</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for gender information in the editor [CHAR LIMIT=30] -->
+    <string name="category_gender">Gender</string>
+
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_measurement">Measurement</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_pet_name">Name</string>
+
+    <!-- Text hint for breed field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_pet_breed">Breed</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_pet_weight">Weight</string>
+
+    <!-- Units for weight of the pet (kilograms) [CHAR LIMIT=5] -->
+    <string name="unit_pet_weight">kg</string>
+
+    <!--empty text view -->
+    <string name="empty_view_title_text">It\'s a bit lonely here…</string>
+    <string name="empty_view_text">Get started by adding a pet</string>
+    <string name="empty_shelter">Empty shelter</string>
+</resources>

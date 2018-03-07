@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mypet.CatalogActivity">
+    <item
+        android:id="@+id/action_deleteAll"
+        android:orderInCategory="200"
+        android:title="@string/action_deleteAll"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_insertAll"
+        android:title="@string/action_insertAll"
+        app:showAsAction="never"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/action_sign_out"
+        app:showAsAction="never"
+        android:orderInCategory="300"
+        android:title="@string/action_sign_out"/>
+</menu>
